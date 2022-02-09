@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MarsDark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MarsDark_jar</output-path>
+    <root id="archive" name="MarsDark.jar">
+      <element id="module-output" name="MarsDark" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/flatlaf-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/legacy.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
